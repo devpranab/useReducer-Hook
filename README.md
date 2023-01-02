@@ -5,7 +5,7 @@ Simple uses of Redux which is built-in of React.
  - A simple introduction of useReducer hook
  - Use useReducer for a simple case
  - useReducer with collection
- - useReducer with action and payload
+ - useReducer with action and payload (useRef())
 
  https://beta.reactjs.org/reference/react/useReducer  
  ```js
